@@ -22,3 +22,6 @@ def calculate_sequence_value(n):
 n = int(input("Provide position number (n): "))
 result = calculate_sequence_value(n)
 print(f"value of  {n} is: {result}")
+
+
+# Counting values for sequence: 2, 5, 8, 14, 17, ... 
