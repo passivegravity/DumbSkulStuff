@@ -1,2 +1,2 @@
 # DumbSkulStuff
-x _ x 
+There is absolutely nothing worth of your time here, trust me.
